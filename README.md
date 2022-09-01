@@ -46,6 +46,14 @@ If one of your friends already set a network up, select `Network > Join Network 
 
 Otherwise, create a network using `Network > Create Network` and store your credentials in a text file for sharing.
 
+## (Optional) Pro Controller Setup
+
+Plug your Nintendo Switch Pro Controller into a free USB port in your computer using a USB Type-C to USB Data cable.
+
+In Ryujinx, open `Options > Settings > Input > Player 1 > Configure`.
+
+As `Input Device`, select `Nintendo Switch Pro Controller`. As controller type, select `Pro Controller`. Finally, under `Profile`, leave it as `Default` and select `Load`. Finally press `Save`.
+
 ## LAN Play Setup
 
 Open Ryujinx again, and select `Options > Settings > Multiplayer > LAN Mode > Network Interface`. This will open a dropdown menu. Everytime you boot the game, make sure this is set to `Radmin VPN` and that `System > Enable Guest Internet Access` is off.
