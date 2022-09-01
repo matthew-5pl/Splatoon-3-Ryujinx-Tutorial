@@ -14,9 +14,11 @@ First, let's establish what we need to follow this tutorial:
 
 Let's begin by opening Ryujinx LDN. If asked to use the Vulkan API instead of OpenGL, select `Yes(Vulkan)`. 
 
-Install the firmware by clicking `Tools > Install Firmware > Install a firmware from XCI or ZIP`. This will open up a file select dialog. Select your firmware .zip package and press `Open`.
+First, [import your keys](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-%26-Configuration-Guide#initial-setup---placement-of-prodkeys).
 
-Then, [import your keys](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-%26-Configuration-Guide#initial-setup---placement-of-prodkeys) as well as [Splatoon 3](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-%26-Configuration-Guide#adding-your-games-to-ryujinx).
+Then, install the firmware by clicking `Tools > Install Firmware > Install a firmware from XCI or ZIP`. This will open up a file select dialog. Select your firmware .zip package and press `Open`.
+
+Next, import [Splatoon 3](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-%26-Configuration-Guide#adding-your-games-to-ryujinx).
 
 Finally, open `Options > Settings > System` and enable `Ignore Missing Services`.
 
