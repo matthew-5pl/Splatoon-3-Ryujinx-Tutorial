@@ -1,5 +1,8 @@
 # How to play Splatoon 3 before launch on Ryujinx 
 
+## Splatoon 3 Matchmaking Discord
+Join [this](https://discord.gg/d8TBPEKYwZ) server to find people to play Splatoon 3 with!
+
 ## Getting started
 First, let's establish what we need to follow this tutorial:
 - A decent computer with a GPU that supports the Vulkan API running Windows 10 or 11
