@@ -57,7 +57,7 @@ Plug your Nintendo Switch Pro Controller into a free USB port in your computer u
 
 In Ryujinx, open `Options > Settings > Input > Player 1 > Configure`.
 
-As `Input Device`, select `Nintendo Switch Pro Controller`. As controller type, select `Pro Controller`. Finally, under `Profile`, leave it as `Default` and select `Load`. Finally press `Save`.
+As `Input Device`, select `Nintendo Switch Pro Controller`. As controller type, select `Pro Controller`. Then, under `Profile`, leave it as `Default` and select `Load`. Finally press `Save`.
 
 ## LAN Play Setup
 
@@ -70,6 +70,10 @@ Once you're in the plaza, visit the Lobby. Once it is done loading, hold `ZL` + 
 ## Quirks
 
 Here is a list of some quirks reported by Ryujinx users playing Splatoon 3:
+### Rainmaker
+
+If you try playing Rainmaker Mode, you won't be able to end the game with a knockout as all checkpoints after the first one don't work.
+
 ### AMD Issues
 Some users with AMD GPUs have been having issues with artifacting, going from mild to severe:
   
