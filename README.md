@@ -77,7 +77,7 @@ Some users with AMD GPUs have been having issues with artifacting, going from mi
 
 Here is a list of known affected maps:
 
-<img src="https://raw.githubusercontent.com/matthew-5pl/Splatoon-3-Ryujinx-Tutorial/main/avoid.png">
+<img src="https://raw.githubusercontent.com/matthew-5pl/Splatoon-3-Ryujinx-Tutorial/main/avoid2.jpg">
     
 ### Softlocks
 
