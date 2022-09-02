@@ -83,6 +83,6 @@ Here is a list of known affected maps:
 
 Once you enter the LAN Play lobby, pressing `+` to switch weapons or `A` to interact with the Gacha machine or the food stand will softlock the game. If this happens you must restart the game.
 
-### Shaders loading time
+### Shaders loading
 
-While playing an online match, if one of the users attempts to load a shader they've never loaded (like the minimap) their game will stutter until it's done loading and the message `The connection is unstable.` will appear on everyone else's screen.
+While playing an online match, if one of the users attempts to load a shader they've never loaded (like opening the minimap) their game will stutter until it's done loading and the message `The connection is unstable.` will appear on everyone else's screen.
