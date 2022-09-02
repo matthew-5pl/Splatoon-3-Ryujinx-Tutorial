@@ -66,3 +66,23 @@ Open Ryujinx again, and select `Options > Settings > Multiplayer > LAN Mode > Ne
 Open Splatoon 3 by double clicking it. Go through the tutorial and once you're in the plaza, enable `Options > Settings > System > Enable Guest Internet Access`. This option needs to be off when the game is loading, and on when you reach the plaza everytime you play. If you leave this option on all the time, the game will try loading the news and get stuck on the loading screen.
 
 Once you're in the plaza, visit the Lobby. Once it is done loading, hold `ZL` + `ZR` + `Left Stick` for 5 seconds to enter LAN Mode. If you get kicked out from LAN mode after it tries to load, it means that `Options > Settings > System > Enable Guest Internet Access` is off. Finally, you can press `L` and create a private room to play with your friends. Salmon Run DOES NOT WORK as the Splatfest World Premiére is missing the files necessary for it to work. Otherwise, you can play all Ranked modes and Turf War like normal.
+
+## Quirks
+
+Here is a list of some quirks reported by Ryujinx users playing Splatoon 3:
+### AMD Issues
+Some users with AMD GPUs have been having issues with artifacting, going from mild to severe:
+  
+<img alt="Severe artifacting issues on an RX 580" style="width: 400px; height: 223px;" src="https://raw.githubusercontent.com/matthew-5pl/Splatoon-3-Ryujinx-Tutorial/main/amd.png">
+
+Here is a list of known affected maps:
+
+<img src="https://raw.githubusercontent.com/matthew-5pl/Splatoon-3-Ryujinx-Tutorial/main/avoid.png">
+    
+### Softlocks
+
+Once you enter the LAN Play lobby, pressing `+` to switch weapons or `A` to interact with the Gacha machine or the food stand will softlock the game. If this happens you must restart the game.
+
+### Shaders loading time
+
+While playing an online match, if one of the users attempts to load a shader they've never loaded (like the minimap) their game will stutter until it's done loading and the message `The connection is unstable.` will appear on everyone else's screen.
