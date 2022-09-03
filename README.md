@@ -8,7 +8,7 @@ First, let's establish what we need to follow this tutorial:
 - A decent computer with a GPU that supports the Vulkan API running Windows 10 or 11
 - A copy of the Splatoon 3 Splatfest World Premiére (This can either be dumped from a Switch running CFW or obtained easily online. I can't link you to it, use the Google machine)
 - Splatoon 3 Splatfest World Premiére Offline Patch Pack (available on the [Gamblitz Discord](https://discord.gg/PsX8qZYCcV) for level 3+ members or on this [mirror](https://matthew5pl.net/files/Release2.zip))
-- [News Skip Patch](https://cdn.discordapp.com/attachments/1014868735242272841/1015552740874792960/Offline_boot.zip) by Shadów#1337
+- [News Skip Patch](https://cdn.discordapp.com/attachments/1014868735242272841/1015552740874792960/Offline_boot.zip) by `Shadów#1337` ([here](https://twitter.com/shadowninja108) on Twitter)
 - The latest Switch prod.keys, title.keys and firmware .zip package (Same thing here, you can dump these yourself or find them online)
 - [The latest build of Ryujinx LDN](https://github.com/Ryujinx/Ryujinx/wiki/Multiplayer-(LDN-Local-Wireless)-Guide)
 - [Radmin VPN](https://www.radmin-vpn.com/)
