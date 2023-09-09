@@ -1,6 +1,19 @@
 # How to play Splatoon 3 before launch on Ryujinx 
 
-## Splatoon 3 Matchmaking Discord
+# WARNING ⚠️: This guide is now USELESS!
+I wrote this guide a year ago, when Splatoon 3 hadn't officially released yet, and it's incredibly outdated.
+
+Playing Splatoon 3 online on Ryujinx has gotten way easier: just follow the official guide for RyuLDN [here](https://github.com/Ryujinx/Ryujinx/wiki/Multiplayer-(LDN-Local-Wireless)-Guide). 
+
+This guide will stay here for archival purposes and the corresponding Github repo it's hosted on will be set to read-only mode.
+
+I'll also be deleting the Discord server linked in this guide in a couple of days, so if you need anything from there (for some reason) now is the time to make a local backup.
+
+If you still want to follow through with the steps in this guide, I take no responsibility for them working or breaking your Ryujinx setup or whatever else.
+
+Thanks again to everyone that made this possible a year ago! Btw happy 1st birthday Splatoon 3 🦑🎂
+
+## Splatoon 3 Matchmaking Discord (dead)
 Join [this](https://discord.gg/d8TBPEKYwZ) server to find people to play Splatoon 3 with!
 
 ## Getting started
